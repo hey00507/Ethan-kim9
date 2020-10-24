@@ -1,4 +1,4 @@
-### Hi there 👋
+### Not just a coder Let's be a good problem solver👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ethan-kim9)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
