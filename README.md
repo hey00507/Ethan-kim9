@@ -1,5 +1,5 @@
 ### Let's be a good problem solver😎 Not just a coder!✔
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ethan-kim9&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ethan-kim9&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
