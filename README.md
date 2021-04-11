@@ -6,6 +6,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ethan-kim9&show_icons=true&theme=cobalt)](https://github.com/Ethan-kim9)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hey00507)](https://solved.ac/hey00507/)
 
 <!-- **Ethan-kim9/Ethan-kim9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
