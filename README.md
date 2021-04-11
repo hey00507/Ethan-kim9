@@ -2,7 +2,7 @@
 
 ## 1. 사이드 프로젝트 많이 하기 👨‍💻
 
-### 1. [파마존](https://github.com/jackson-hong/pamajon) : 남성 쇼핑몰 [BLUESMAN](http://bluesman.co.kr/) 클론코딩 프로젝트 
+### 1. [파마존](https://github.com/jackson-hong/pamajon) : 남성 쇼핑몰 [BLUESMAN](http://bluesman.co.kr/) 클론코딩 프로젝트 (자바/스프링)
 
 ## 2. 1일 1커밋 이상 꾸준함을 기르기 💪
 
