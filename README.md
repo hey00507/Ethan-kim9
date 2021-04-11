@@ -2,8 +2,7 @@
 
 ## 1. 사이드 프로젝트 많이 하기 👨‍💻
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEthan-kim9&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+### 1. 2021.03 ~ [파마존](https://github.com/jackson-hong/pamajon) : 남성 쇼핑몰 [BLUESMAN](http://bluesman.co.kr/) 클론코딩 프로젝트 
 
 ## 2. 1일 1커밋 이상 꾸준함을 기르기 💪
 
@@ -13,6 +12,10 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hey00507)](https://solved.ac/hey00507/)
 
 <!-- **Ethan-kim9/Ethan-kim9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEthan-kim9&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 
 Here are some ideas to get you started:
 
