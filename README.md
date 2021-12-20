@@ -13,4 +13,4 @@
 ### 1. [파마존](https://github.com/jackson-hong/pamajon) : 남성 쇼핑몰 [BLUESMAN](http://bluesman.co.kr/) 클론코딩 프로젝트 (자바/스프링)
 
 ## 4. 사용 언어 👨‍💻 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hey00507&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-kim9&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
