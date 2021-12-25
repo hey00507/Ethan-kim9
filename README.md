@@ -8,10 +8,10 @@
 ## 3. 자료구조와 알고리즘 공부하기
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hey00507)](https://solved.ac/hey00507/)
 
-## 3. 나의 프로젝트 👨‍💻 
+## 4. 나의 프로젝트 👨‍💻 
 ### 1. [파마존](https://github.com/jackson-hong/pamajon) : 남성 쇼핑몰 [BLUESMAN](http://bluesman.co.kr/) 클론코딩 프로젝트 (자바/스프링)
 
-## 4. 사용 언어 👨‍💻 
+## 5. 사용 언어 👨‍💻 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-kim9&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
