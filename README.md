@@ -20,6 +20,5 @@
 <br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ethan-kim9&show_icons=true&theme=dark)](https://github.com/Ethan-kim9)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-kim9&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
