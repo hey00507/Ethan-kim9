@@ -13,11 +13,11 @@
   <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>
 </p>
-<h3 align="center">🤔About Me🤔</h3>
+<!-- <h3 align="center">🤔About Me🤔</h3>
 <p align="center">
   <a href="https://velog.io/@ethan_kim9"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@ethan_kim9"/></a>&nbsp
 </p>
-<br>
+<br> -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ethan-kim9&show_icons=true&theme=dark)](https://github.com/Ethan-kim9)
 
