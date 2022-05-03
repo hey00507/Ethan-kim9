@@ -18,7 +18,6 @@
   <a href="https://velog.io/@ethan_kim9"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@ethan_kim9"/></a>&nbsp
 </p>
 <br> -->
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ethan-kim9&show_icons=true&theme=dark)](https://github.com/Ethan-kim9)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=hey00507)](https://solved.ac/hey00507)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ethan-kim9&show_icons=true&theme=dark)](https://github.com/Ethan-kim9)
 </div>
