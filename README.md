@@ -13,10 +13,10 @@
   <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>
 </p>
-<!-- <h3 align="center">🤔About Me🤔</h3>
+<h3 align="center">🤔Blog🤔</h3>
 <p align="center">
   <a href="https://velog.io/@ethan_kim9"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@ethan_kim9"/></a>&nbsp
-</p> -->
+</p>
 <div>
     
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=hey00507)](https://solved.ac/hey00507)
